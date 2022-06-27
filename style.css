@@ -1,0 +1,22 @@
+h1 {
+    color: #cccccc;
+    background-color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img {
+    margin-left: 40%;
+}
+
+.recipe {
+    text-align: center;
+    font-size: 20px;
+    background-color: #cccccc;
+    color: #000000;
+}
+
+ul {
+    text-align: center;
+    background-color: #cccccc;
+}
